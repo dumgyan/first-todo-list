@@ -35,7 +35,7 @@ class App extends Component {
         <div className="app">
           <div className="container">
             <div className="box">
-              <h1>My First Todo List</h1>
+              <h1>My Daily Task</h1>
               <form className="form-wrap" onSubmit={this.handleSubmit}>
                 <textarea
                   className="input"

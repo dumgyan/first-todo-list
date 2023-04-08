@@ -47,7 +47,6 @@ textarea{
   
   align-items: center;
   margin-bottom: 15px;
-  margin-left: 470px;
 }
 
 .box {
@@ -62,4 +61,9 @@ textarea{
   font-family: Verdana, Geneva, Tahoma, sans-serif; 
   width: 520px;
   padding-left: 10px;
+}
+h1 {
+  padding-top: 20px;
+  margin-left: 120px;
+  color: yellow;
 }
